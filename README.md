@@ -110,6 +110,28 @@ A fájl szabadon módosítható futtatás előtt.
 
 ---
 
+## UI képernyőképek
+
+### Time
+![Time](screenshots/lvgl_time.png)
+
+### Telemetria
+![Telemetria](screenshots/lvgl_telemetria.png)
+
+### Időjárás
+![Weather](screenshots/lvgl_weather.png)
+
+### Fronius
+![Fronius](screenshots/lvgl_fronius.png)
+
+### Gree klímák
+![Gree](screenshots/lvgl_gree.png)
+
+### Settings
+![Settings](screenshots/lvgl_settings.png)
+
+---
+
 ## Készítő
 
 Kuba István Alexander — ZVATRS - 2026
